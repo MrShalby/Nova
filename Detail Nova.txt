@@ -1,0 +1,40 @@
+API's which we use
+
+Open-AI API
+Weather API
+Wikipedia API
+News API
+Code generation API
+
+ 
+To Do List
+
+must connect with internet
+all web-application
+particular search fetch from web application
+Better GUI
+move dec application by command
+Image generation
+music play
+email
+switch windpw
+
+            "14. Play music\n"
+            "15. Set a timer\n"
+            "16. Send an email\n"
+            "17. Create a reminder\n"
+            "18. Control smart home devices\n"
+            "19. Translate languages\n"
+            "20. Provide definitions\n"
+            "21. Check calendar events\n"
+            "22. Get stock market updates\n"
+            "23. Find nearby restaurants\n"
+            "24. Provide traffic updates\n"
+            "25. Read books or articles aloud\n"
+            "26. Play a game\n"
+            "27. Set a goal or task\n"
+            "28. Provide motivational quotes\n"
+            "29. Play a song\n"
+            "30. Set a goal or task\n"
+            "31. Provide motivational quotes\n"
+            "32. Play a song\n"
